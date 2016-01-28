@@ -7,4 +7,4 @@ and print out a weather forecast.
 
 Or create an alias to it, like `alias weather='/path/to/yr-weather.pl'`
 
-<img src="http://i.imgur.com/CzHYwVE.png">
+<img src="http://i.imgur.com/UavV0gB.png">
