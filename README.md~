@@ -25,4 +25,8 @@ and print out a weather forecast.
 
 Or create an alias to it, like `alias weather='/path/to/yr-weather.pl'`
 
+<<<<<<< HEAD
 <img src="http://i.imgur.com/1ut03s9.png">
+=======
+<img src="http://i.imgur.com/UavV0gB.png">
+>>>>>>> 6e9e0bce321fc3541eb5011e95eb93b8a7b748d2
