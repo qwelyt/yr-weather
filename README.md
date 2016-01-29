@@ -9,7 +9,7 @@ Fix it by adding the following pull-request: https://github.com/incognico/Weathe
 
 And to avoid a bug which caused deep-recursion on occasion, apply this pull request: https://github.com/incognico/Weather-YR/commit/8c337350240509dc3105f7f57dc8686dfb62a870
 
-You will also need <a hreft="http://search.cpan.org/~shlomif/Text-Table-1.130/lib/Text/Table.pm">Text::Table</a>. This prints the pretty table.
+You will also need <a href="http://search.cpan.org/~shlomif/Text-Table-1.130/lib/Text/Table.pm">Text::Table</a>. This prints the pretty table.
 
 The simplest way to get the modules is to just enter your perl shell and install them.
 Ie:
